@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426790420380",
+    "project_id": "jan-aushadhi-finder-b12b7",
+    "storage_bucket": "jan-aushadhi-finder-b12b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426790420380:android:01a24b6c50b4db439d1259",
+        "android_client_info": {
+          "package_name": "com.example.janna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqJmJBp4PfjhhC0l4aYhCMhoGUjVA3eVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

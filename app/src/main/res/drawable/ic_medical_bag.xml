@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Medical Bag Body -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M24,35C24,32.79 25.79,31 28,31H80C82.21,31 84,32.79 84,35V75C84,77.21 82.21,79 80,79H28C25.79,79 24,77.21 24,75V35Z" />
+
+    <!-- Bag Handle -->
+    <path
+        android:strokeColor="#2E7D32"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M44,31V27C44,24.79 45.79,23 48,23H60C62.21,23 64,24.79 64,27V31" />
+
+    <!-- White Circle for Symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,55m-15,0a15,15 0,1 1,30 0a15,15 0,1 1,-30 0" />
+
+    <!-- Medical Cross -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M51,46h6v6h6v6h-6v6h-6v-6h-6v-6h6z" />
+</vector>

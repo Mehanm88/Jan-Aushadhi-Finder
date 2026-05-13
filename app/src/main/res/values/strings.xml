@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Jan Aushadhi Helper</string>
+    <string name="search_hint">Search brand or generic name...</string>
+    <string name="savings_title">TOTAL POTENTIAL SAVINGS</string>
+    <string name="cost_comparison">Cost Comparison (Generic vs Branded)</string>
+    <string name="generic_label">Generic</string>
+    <string name="retail_label">Retail</string>
+    <string name="stock_check_title">Stock Check: %1$s</string>
+    <string name="querying_kendras">Querying nearby Kendras...</string>
+    <string name="check_availability">CHECK AVAILABILITY</string>
+    <string name="about_generics_title">About Generics</string>
+    <string name="about_generics_desc">Generic medicines contain the same active ingredients (salts) as branded ones and are equally effective, as per WHO and government standards.</string>
+    <string name="understood">UNDERSTOOD</string>
+    <string name="save_percent">Save %1$d%%</string>
+    <string name="empty_search_title">No matching medicines found</string>
+    <string name="empty_search_desc">We couldn\'t find anything matching your search. Try checking the spelling or use the generic salt name.</string>
+    <string name="ready_title">Ready to find savings?</string>
+    <string name="ready_desc">Enter a brand or generic name to compare prices and see your potential impact.</string>
+    <string name="location_required_title">Location Access Required</string>
+    <string name="location_required_desc">To find the nearest Jan Aushadhi Kendras, we need your location. Please enable it in app settings.</string>
+    <string name="no_internet_msg">No internet connection. Map may not load.</string>
+</resources>
