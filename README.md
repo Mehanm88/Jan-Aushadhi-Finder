@@ -36,7 +36,7 @@ The application follows modern Android development best practices with a focus o
 ### Installation Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Mehanm88/janna.git
+   git clone https://github.com/Mehanm88/Jan-Aushadhi-Finder.git
    ```
 2. **Import Project**: Open Android Studio and select "Open" -> Navigate to the project folder.
 3. **API Key Setup**:
